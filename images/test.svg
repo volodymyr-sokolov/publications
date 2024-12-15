@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" height="40">
     <style src="./style.css" >
         .subTitle {
-            fill: #00FFFF;
+            fill: #FFFFFF;
             transition: fill .3s ease;
         }
     </style>
